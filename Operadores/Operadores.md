@@ -14,7 +14,7 @@ Além dessas quatro classes ainda exsitem operadores especiais destinados a real
 
 #### OPERADORES ARITMÉTICOS
 
-Estes operdadores são utilizados para a realização de operações aritméticas, e assim como na matemática eles também possuem prioridades de execução. Os operadores Aritméticos em C são represetados da seguinte forma:
+Estes operadores são utilizados para a realização de operações aritméticas, e assim como na matemática eles também possuem prioridades de execução. Os operadores Aritméticos em C são represetados da seguinte forma:
 
 -  ( - )    Subtração ou menos unário
 
@@ -48,13 +48,13 @@ int a , b, mod;
 a = 10, b = 5;
 mod  = a % b; 
 ```
-- ( -- )    Decremento
+- ( -- )    Decremento<br>
 Operador unário que recebe apenas um operando
 ```c
 int a = 10;
 a = a - 1; //também pode ser escrito a-- ou --a
 ```
-- ( ++ )    Incremento
+- ( ++ )    Incremento<br>
 Operador unário que recebe apenas um operando
 ```c
 int a = 10;
