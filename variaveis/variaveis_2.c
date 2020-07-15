@@ -7,6 +7,9 @@ void main()
 	//Definindo uma variável
 	int  a = 5, b;
 
+	//Atribuiçõa Múltiplas de variáveis
+	int x = y = z = 0;
+
 	//Imprimindo a variavel
 	printf("%d\n",a ); 
 

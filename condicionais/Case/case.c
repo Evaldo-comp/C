@@ -28,7 +28,7 @@ void  main()
 
 
 
-	//Exemplo com swtch case
+	//Exemplo 1com swtch case
 	switch(a){
 
 		case 10:
@@ -43,7 +43,7 @@ void  main()
 		case 40:
 			printf("A variavel é 40\n");
 			break;
-		default:
+		default:  //utilizado caso nehum dos casos anteriores seja encontrado
 
 			printf("valor desconecido\n");
 			break;
@@ -51,7 +51,24 @@ void  main()
 
 
 	}
+	char letra;
+	int qtdVogais;
 
+	for(letra = 'A'; letra <='Z';letra++){
+		switch(letra){
+			case 'A':
+			case 'E':
+			case 'I':
+			case 'O':
+			case 'U': qtdVogais++;
+
+		};
+		
+	}printf("o número de vogais é %d\n", qtdVogais );
+
+	
+
+	
 
 
 

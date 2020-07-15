@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <math.h>
+#include<string.h>
 
 void main()
 {
@@ -17,10 +18,9 @@ void main()
 //*************************EXEMPLO-01-CONDICIONAL SIMPLES***************************************
 	//condicional simples
 	if (n1 == 10)
-	{
+	
 		printf("A variável é igual a 10\n");
-	}
-
+	
 	
 
 //***************************EXEMPLO-02-NUMERO-PAR***********************************************
@@ -43,20 +43,31 @@ void main()
 	//13 a 18 - !Você é adolesente
 	//19 a 50 - !Você é adulto
 	//51 a ... - !Você é idoso
+
 	printf("Digite sua idade\n");
 	scanf("%d", &idade);
 
 	if (idade >=1 && idade<=12){
 		printf("Você é criança\n");
-	}else if (idade >=13 && idade<=18){
-		printf("Você é adolesente\n");
-	}else if(idade >=19 && idade<=50)
-	{
-		printf("você é adulto\n");
-	}else{
+		}else if (idade >=13 && idade<=18){
+			printf("Você é adolesente\n");
+		}else if(idade >=19 && idade<=50)
+		{
+			printf("você é adulto\n");
+		}else{
 		printf("Você é idoso\n");
-	}
+		}
 
+
+//************************************************* TESTE COM PONTO FLUTUANTE ****************************8
+
+	//Muito cuidado na hora de testar números com ponto flutuante, pois eles nunca são exatos, portanto nunca
+	//retornarão True, por isso no código abaixo usase fabs para retornar o absoluto e esse absoluto é testado
+	//dentro de um intervalo
+	float imposto = 0.65;
+
+	if(fabs( imposto == 0.65)<= 0.1)
+		printf("Teste");
 
 
 }

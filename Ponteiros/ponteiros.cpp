@@ -10,7 +10,13 @@ using namespace std;
 int main()
 {
 	/* Uma variável guarda um determinado valor, em um endereço de memória
-		Um ponteiro guarda o endereço da memória*/
+		Um ponteiro guarda o endereço da memória
+
+		A = &idade:  A variavél A recebe o endereço em que está aramzenado o valor de idade
+		b = *idade  a variável b receb o valor da variável idade.
+
+		OBS: Valor é diferente de endereço
+	*/
 
 	int a = 12; 
 
