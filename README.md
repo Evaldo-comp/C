@@ -1,6 +1,6 @@
 ### ESTUDOS DE C / C++
 
-Esse repósitório contém estudos fundamentias de C  e C++. Cada pasta possui um conteúdo teórico, exemplos e exercícios
+Esse repósitório contém estudos fundamentais de C  e C++. Cada pasta possui um conteúdo teórico, exemplos e exercícios
 
 ### REFERÊNCIAS
 - Livros:
