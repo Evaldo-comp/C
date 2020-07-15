@@ -7,9 +7,11 @@ Os operadores especialmente n alinguagem C ganhma uma importância mais elevada 
 - Operadores Lógicos
 - Operadores bit a bit
 
-Além dessas quatro classes ainda exsitem operadores especiais destinados a realizar funções especificas.
+Além dessas quatro classes ainda existem operadores especiais destinados a realizar funções especificas.
 
-####OPERADORES ARITMÉTICOS
+------------
+
+#### OPERADORES ARITMÉTICOS
 
 Estes operdadores são utilizados para a realização de operações aritméticas, e assim como na matemática eles também possuem prioridades de execução. Os operadores Aritméticos em C são represetados da seguinte forma:
 
