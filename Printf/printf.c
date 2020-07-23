@@ -19,7 +19,7 @@ int c1, c2;
 
 
 //Imprimindo valor do tipo int %d
-printf("Esse é um dado inteiro: %d\n", a );
+printf("Esse é um dados inteiro: %d\n", a );
 
 //Imprimindo valor do tipo float %f
 printf("Esse é um dado float: %f\n", b );
