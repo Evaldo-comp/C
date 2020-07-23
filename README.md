@@ -1,2 +1,13 @@
-# Curso de C
- Curso introdutório de C
+### ESTUDOS DE C / C++
+
+Esse repósitório contém estudos fundamentais de C  e C++. Cada pasta possui um conteúdo teórico, exemplos e exercícios<br>
+
+#### Estrutura
+* [Operadores](https://github.com/Evaldo-comp/C/blob/master/Operadores/Operadores.md#operadores)
+
+### REFERÊNCIAS
+- Livros:
+	- Título: C Completo e Total
+	- Autor: Herbert Schildt
+	- Editora: Makron Books
+	- Amazon: [https://cutt.ly/lp4ofdIhttp://](https://cutt.ly/lp4ofdIhttp://)
