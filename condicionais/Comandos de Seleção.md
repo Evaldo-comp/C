@@ -91,7 +91,7 @@ if(expressão)
 }
 ```
 
-[Exemplo]()
+
 
 #### Escada if-else-if
 Quando temos comandos *if* e *else* intercalados, a indentação forma uma escada, daí o nome, recomenda-se no máximo uma escada com 15 degraus, apesar de que muitas operações que necessitam dessa quantidade de decisões possam ser implementadas com outras opções como o *while* ou *switch*.
@@ -118,7 +118,7 @@ if(expressão)comando;
 .
 else comando;
 ```
-[Exemplo]()
+[Exemplo](https://github.com/Evaldo-comp/C/blob/master/condicionais/If_Else/Exemplo03.c)
 ______
 ______
 <strong>Switch</strong>
