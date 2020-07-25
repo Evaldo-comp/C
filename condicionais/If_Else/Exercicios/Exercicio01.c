@@ -1,7 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-//Uma letra pode ser impressa na forma de inteiro, dessa forma o resultado será o seu código na tabela ASCII
+
+//***************************EEXERCÍCIO 01***********************************************
+
+// Recebe três notas do usuário e retone a média, indicando se o aluno foi aprovado caso a média seja maior 
+//ou igual a 7 
+
 
 void  main()
 {
@@ -29,7 +34,7 @@ void  main()
 		printf("Parabéns, você foi aprovado\n");
 	}else{
 		printf("Sua media foi: %f\n", media );
-		printf("Infelismente voê foi reprovado\n");
+		printf("Infelismente você foi reprovado\n");
 	}
 
 	

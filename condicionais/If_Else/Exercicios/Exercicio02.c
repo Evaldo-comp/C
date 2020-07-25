@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-//Uma letra pode ser impressa na forma de inteiro, dessa forma o resultado será o seu código na tabela ASCII
+
+
+//***************************EXERCÍCIO 02***********************************************
+
+//Receba três valores referentes aos lados de um triângulo e verifique se é equilátero
 
 void  main()
 {
