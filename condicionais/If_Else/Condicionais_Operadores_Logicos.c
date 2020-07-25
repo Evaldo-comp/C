@@ -8,7 +8,7 @@
 //O EXEMPLO SEGUINTE SIMULA OS VALORES DE UMA TABELA VERDADE AND, COM BASE NOS DADOS INSERIDOS PELO USUÁRIO
 int main()
 {
-	//Incialização das variáveis
+	//Inicialização das variáveis
 	int p,q;
 
 	printf("Vamos Fazer o teste da TABELA VERDADE de E-AND\n" );

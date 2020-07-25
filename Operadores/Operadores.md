@@ -1,13 +1,13 @@
 ### OPERADORES
 
-Os operadores especialmente n alinguagem C ganhma uma importância mais elevada do que em outras linguagens, sua relevancia deve-se as mṕultiplas funções atribuidaas as esses elementos que em c são divididos em quatro tipos:
+Os operadores especialmente na linguagem C ganham uma importância mais elevada do que em outras linguagens, sua relevância deve-se as múltiplas funções atribuidas as esses elementos que em C são divididos em quatro tipos:
 
 - Operadores Aritméticos
 - Operadores Relacionais
 - Operadores Lógicos
 - Operadores bit a bit
 
-Além dessas quatro classes ainda exsitem operadores especiais destinados a realizar funções especificas.
+Além dessas quatro classes ainda existem operadores especiais destinados a realizar funções especificas.
 
 ------------
 
