@@ -4,11 +4,11 @@
 #include <math.h>
 #include<string.h>
 
-//************************************************* TESTE COM PONTO FLUTUANTE ****************************8
+//************************************************* TESTE COM PONTO FLUTUANTE ****************************************************
 
-	//Muito cuidado na hora de testar números com ponto flutuante, pois eles nunca são exatos, portanto nunca
-	//retornarão True, por isso no código abaixo está sendo utilizado (fabs) para retornar o absoluto e esse absoluto é testado
-	//entro de um intervalo
+	/*Muito cuidado na hora de testar números com ponto flutuante, pois eles nunca são exatos, portanto nunca
+	retornarão True, por isso no código abaixo está sendo utilizado (fabs) para retornar o absoluto e esse absoluto é testado
+	entro de um intervalo*/
 
 void main()
 {
