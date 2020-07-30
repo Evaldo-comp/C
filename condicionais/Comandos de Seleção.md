@@ -184,13 +184,13 @@ O x no código acima é o que chamamos de ***controlador***, pois ele é testado
 
 **Laços infinitos:**
 
-os loops infinitos  ocorrem quando a condição limitante de execução da instrução dentro de um laço  nunca é alcançada ou simplesmente não existe.
+Os loops infinitos  ocorrem quando a condição limitante de execução da instrução dentro de um laço  nunca é alcançada ou simplesmente não existe.
 
 **Exemplo:**
 ```c
-for (; ; ;) printf(“Pode sair pra tomar um café, esse trecho vai executar por toda a eternidade”
+for (; ; ;) printf(“Pode sair pra tomar um café, esse trecho vai executar por toda a eternidade”)
 ```
-***OBS:*** * Os controladores do laço for não são obrigatórios, por isso eventos como o codigo acima, onde as condicionais do for simplismente não existem, pode ser utilizado para construir um loop inifnito.*
+***OBS:*** *Os controladores do laço ***for*** não são obrigatórios, por isso eventos como o codigo acima, onde as condicionais do ***for*** simplismente não existem, pode ser utilizado para construir um loop infinito.*
 
 **Outro exemplo de loop infinito**
 ```c
@@ -209,7 +209,7 @@ int main()
 _____
 #### Laço while
 
-o while executa um bloco ou comando se determianda condição for verdadeira. 
+o while executa um bloco ou comando se determinada condição for verdadeira. 
 
 **Estrutura**
 
