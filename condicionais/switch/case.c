@@ -6,7 +6,7 @@
 void  main()
 {
 	setlocale(LC_ALL, "");
-	//OBS: No caso de não estar utilizando o setlocale no local fda virgula deve-se usar o ponto
+	//OBS: No caso de não estar utilizando o setlocale no local da virgula deve-se usar o ponto
 
 
 	int a = 10;
@@ -28,7 +28,7 @@ void  main()
 
 
 
-	//Exemplo 1com swtch case
+	//Exemplo com swtch 
 	switch(a){
 
 		case 10:
@@ -45,12 +45,17 @@ void  main()
 			break;
 		default:  //utilizado caso nehum dos casos anteriores seja encontrado
 
-			printf("valor desconecido\n");
+			printf("valor desconhecido\n");
 			break;
 
+	
+			}
+			
+	
+	
+	//Exemplo integrando for e switch
 
-
-	}
+	
 	char letra;
 	int qtdVogais;
 
