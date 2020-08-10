@@ -19,4 +19,4 @@ h) if ( x => y ); ***// Falta chaves***<br>
     
   ______
   
-  :arrow_left: [Voltar para Exercćicios](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/introdu%C3%A7%C3%A3o.md)
+  :arrow_left: [Voltar para Exercícios](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/introdu%C3%A7%C3%A3o.md)
