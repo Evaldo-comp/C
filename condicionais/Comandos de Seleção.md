@@ -164,6 +164,4 @@ switch(c){
 ```
 
 
-### Comandos de iteração
-Os comandos de iteração são laços que executam uma ou mais instruções uma quantidade vezes determinada pelo desenvolvedor, esse limite de execuções pode estar no início do bloco  como ocorre nos laços ***for*** e ***while*** ou no final como acontece no ***do-while***
-<br>.
+.
