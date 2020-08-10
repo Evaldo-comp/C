@@ -4,9 +4,9 @@ Esse repósitório contém estudos fundamentais de C  e C++. Cada pasta possui u
 
 #### Estrutura
 * Comandos de Controle do Programa
-  * [Operadores](https://github.com/Evaldo-comp/C/blob/master/Operadores/Operadores.md#operadores)
-  * [Comandos de Seleção](https://github.com/Evaldo-comp/C/blob/master/condicionais/Comandos%20de%20Sele%C3%A7%C3%A3o.md)
-  * [Comandos de Iteração](https://github.com/Evaldo-comp/C/blob/master/Lacos_repeticao/Comandos%20de%20Itera%C3%A7%C3%A3o.md)
+  * [Operadores](https://github.com/Evaldo-comp/C/blob/master/Teoria/Operadores.md)
+  * [Comandos de Seleção](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Sele%C3%A7%C3%A3o.md)
+  * [Comandos de Iteração](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Itera%C3%A7%C3%A3o.md)
 
 ### REFERÊNCIAS
 - Livros:
