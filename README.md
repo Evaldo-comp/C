@@ -5,15 +5,17 @@ Esse repósitório contém estudos fundamentais de C  e C++, dividido basicament
 * **Exemplos:** Trechos de código, ou programas interios demonstrando o funcionamento de algum tópico da linguagem.<br>
 * **Exercícios:** Práticas divididas por tema.<br>
 
-#### Estrutura
+#### Teoria
 * Comandos de Controle do Programa
   * [Operadores](https://github.com/Evaldo-comp/C/blob/master/Teoria/Operadores.md)
   * [Comandos de Seleção](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Sele%C3%A7%C3%A3o.md)
   * [Comandos de Iteração](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Itera%C3%A7%C3%A3o.md)
+  
+#### Exercícios
+* [Introdução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/introdu%C3%A7%C3%A3o.md)
+  
 
 ### REFERÊNCIAS
-- Livros:
-	- Título: C Completo e Total
-	- Autor: Herbert Schildt
-	- Editora: Makron Books
-	- Amazon: [https://cutt.ly/lp4ofdIhttp://](https://cutt.ly/lp4ofdIhttp://)
+
+SCHILDT, Herbert. C completo e total. Pearson Universidades; Edição: 3 (1 de fevereiro de 1997)
+Amazon: [](https://www.amazon.com.br/C-completo-total-Herbert-Schildt/dp/8534605955)
