@@ -1,5 +1,5 @@
 ### SOLUÇÃO EXERCÍCIO 03
-#### #### 2.9 Escreva uma declaração em C ou linha que resolva o que se pede em cada item.
+#### 3  Escreva uma declaração em C ou linha que resolva o que se pede em cada item.
 
 a) Print a mensagem “ Tenha um ótimo dia.”<br>
 ```c
