@@ -7,3 +7,10 @@ c) Comentários de linha única, começam com ***//***<br>
 d) ***Keywords***  são palavras reservadas por C, e não podem ser usadas<br>
 e) ***tabs***   e  ***espaços*** são ignorados pelo compilador<br>
 
+**Fonte do Exercicio:** <br>
+  >> C How to Program global edition, 8 edição, com introdução a C++ by (Paul Deitel e Harvey Deitel) -CAP02
+    
+  ______
+  
+  :arrow_left: [Voltar para Exercícios](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/introdu%C3%A7%C3%A3o.md)
+
