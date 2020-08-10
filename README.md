@@ -1,6 +1,9 @@
 ### ESTUDOS DE C / C++
 
-Esse repósitório contém estudos fundamentais de C  e C++. Cada pasta possui um conteúdo teórico, exemplos e exercícios<br>
+Esse repósitório contém estudos fundamentais de C  e C++, dividido basicamente em três diretórios:<br>
+* **Teoria:** Conceitos colocados de forma sintética e direta.<br>
+* **Exemplos:** Trechos de código, ou programas interios demonstrando o funcionamento de algum tópico da linguagem.<br>
+* **Exercícios:** Práticas divididas por tema.<br>
 
 #### Estrutura
 * Comandos de Controle do Programa
