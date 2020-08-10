@@ -52,6 +52,21 @@ d) Entre com três valores inteiros a partir do teclado e os guarde nas seguinte
 :pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe03.md)
 
 
+______
+
+
+#### 4. Define como verdadeiro ou falso as sentenças abaixo, se for falso explique sua resposta.
+
+a) Em C, as funções main e Main são idênticas.
+ 
+c) A sentença if (a = b) verifica se as variáveis a e b são iguais
+
+d) Condicionais em declarações if, são formados por operadores de atribuição
+
+e) Todos estes  nomes de variáveis são válidos: _3g, my_val, h22, 123greetings, july98. 
+
+:pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe04.md)
+
 
 ______
 
