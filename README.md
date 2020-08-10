@@ -17,5 +17,5 @@ Esse repósitório contém estudos fundamentais de C  e C++, dividido basicament
 
 ### REFERÊNCIAS
 
-SCHILDT, Herbert. C completo e total. Pearson Universidades; Edição: 3 (1 de fevereiro de 1997)
-Amazon: [](https://www.amazon.com.br/C-completo-total-Herbert-Schildt/dp/8534605955)
+SCHILDT, Herbert. C completo e total. Pearson Universidades; Edição: 3 (1 de fevereiro de 1997)<br>
+[Amazon](https://www.amazon.com.br/C-completo-total-Herbert-Schildt/dp/8534605955)
