@@ -1,6 +1,6 @@
 ### ESTUDOS DE C / C++
 
-#### 1 Identifique e corrija os erros em cada  uma das seguintes sentenças( OBS: pode haver mais do que um erro por sentença)
+#### 1.  Identifique e corrija os erros em cada  uma das seguintes sentenças( OBS: pode haver mais do que um erro por sentença)
 
 a) scanf( "&d", %value );<br>
 b) printf( "The sum of %c and %c is %c /n", x, y, ?); ***//falta uma variável***<br>
@@ -14,5 +14,7 @@ h) if ( x => y ); ***// Falta chaves***<br>
       printf( "%d is greater than or equal to %d\n, x, y" ); ***// Variáveis devem ir fora das aspas***
       
     
-    **Fonte do Exercicio:** <br>
+  **Fonte do Exercicio:** <br>
     >> C How to Programam global edition, 8 editação, com iontrodução a C++- (Paul Deitel e Harvey Deitel)
+    
+    ______
