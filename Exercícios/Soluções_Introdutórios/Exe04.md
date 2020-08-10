@@ -1,7 +1,7 @@
 ### SOLUÇÃO EXERCÍCIO 04
 #### 4. Define como verdadeiro ou falso as sentenças abaixo, se for falso explique sua resposta.
 
-a) em C, as funções main e Main são idênticas.<br>
+a) Em C, as funções main e Main são idênticas.<br>
 ***R: Falso. C é case sensitive, ou seja, letras minúsculas são diferentes de letras maiúsculas.***<br>
 b) A sentença if (a = b) verifica se as variáveis a e b são iguais<br>
 ***R: Falso. O sinal = é de atribuição, para igualdade usamos ==***<br>
