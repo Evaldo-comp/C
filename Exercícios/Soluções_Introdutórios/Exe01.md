@@ -15,6 +15,6 @@ h) if ( x => y ); ***// Falta chaves***<br>
       
     
   **Fonte do Exercicio:** <br>
-  >> C How to Programam global edition, 8 editação, com iontrodução a C++- (Paul Deitel e Harvey Deitel)
+  >> C How to Program global edition, 8 edição, com introdução a C++ by (Paul Deitel e Harvey Deitel)
     
   ______
