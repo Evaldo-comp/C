@@ -37,3 +37,21 @@ e) *******   e  ******* são ignorados pelo compilador<br>
 :pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe02.md)
  
  ______
+ 
+ #### 3.  Escreva uma declaração em C ou linha que resolva o que se pede em cada item.
+
+a) Print a mensagem “ Tenha um ótimo dia.”<br>
+
+b) Atribua a soma das variáveis b e c a variável a.<br>
+
+c) Cheque se o valor da variaǘel a é maior do que a variaǘel b. Se for, guardar a diferença entre as duas na variável c.
+
+d) Entre com três valores inteiros a partir do teclado e os guarde nas seguintes variáveis. p, q e r.
+
+
+:pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe03.md)
+
+
+
+______
+
