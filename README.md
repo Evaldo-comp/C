@@ -1,12 +1,15 @@
 ### ESTUDOS DE C / C++
 
-Esse repósitório contém estudos fundamentais de C  e C++. Cada pasta possui um conteúdo teórico, exemplos e exercícios<br>
+Esse repósitório contém estudos fundamentais de C  e C++, dividido basicamente em três diretórios:<br>
+* **Teoria:** Conceitos colocados de forma sintética e direta.<br>
+* **Exemplos:** Trechos de código, ou programas interios demonstrando o funcionamento de algum tópico da linguagem.<br>
+* **Exercícios:** Práticas divididas por tema.<br>
 
 #### Estrutura
 * Comandos de Controle do Programa
-  * [Operadores](https://github.com/Evaldo-comp/C/blob/master/Operadores/Operadores.md#operadores)
-  * [Comandos de Seleção](https://github.com/Evaldo-comp/C/blob/master/condicionais/Comandos%20de%20Sele%C3%A7%C3%A3o.md)
-  * [Comandos de Iteração](https://github.com/Evaldo-comp/C/blob/master/Lacos_repeticao/Comandos%20de%20Itera%C3%A7%C3%A3o.md)
+  * [Operadores](https://github.com/Evaldo-comp/C/blob/master/Teoria/Operadores.md)
+  * [Comandos de Seleção](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Sele%C3%A7%C3%A3o.md)
+  * [Comandos de Iteração](https://github.com/Evaldo-comp/C/blob/master/Teoria/Comandos%20de%20Itera%C3%A7%C3%A3o.md)
 
 ### REFERÊNCIAS
 - Livros:
