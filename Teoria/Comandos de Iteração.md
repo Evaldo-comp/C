@@ -1,34 +1,32 @@
 
 ### Comandos de iteração
 
-Os comandos de iteração são laços que executam uma ou mais instruções uma quantidade vezes determinada pelo desenvolvedor, esse limite de execuções pode estar no início do bloco  como ocorre nos laços ***for*** e ***while*** ou no final como acontece no ***do-while***
+Os comandos de iteração são laços que executam uma ou mais instruções uma quantidade vezes determinada pelo desenvolvedor, esse limite de execuções pode estar no início do bloco  como ocorre nos laços <b>for</b> e <b>while</b> ou no final como acontece no <b>do-while</b>.
 <br>.
 #### Laço for
 
-**Estrutura**
+```for (inicialização; condição; incremento) comando```
 
-> for (inicialização; condição; incremento) comando
 
-**Exemplo:**
 ```c
 for (x = 100; x != 65; x-=5){
     z = x*x;
     printf(“O quadrado de %d, %f”, x z);
 }
 ```
-O x no código acima é o que chamamos de ***controlador***, pois ele é testado a cada vez que o laço é executado, para verificar se ainda atende a condição de execução do bloco, quando essa condição não for mais verdadeira o laço deixa de ser executado.
+O x no código acima é o que chamamos de <b>controlador</b>, pois ele é testado a cada vez que o laço é executado, para verificar se ainda atende a condição de execução do bloco, quando essa condição não for mais verdadeira o laço deixa de ser executado.
 
-**Laços infinitos:**
+#### Laços infinitos:
 
 Os loops infinitos  ocorrem quando a condição limitante de execução da instrução dentro de um laço  nunca é alcançada ou simplesmente não existe.
 
-**Exemplo:**
+
 ```c
 for (; ; ;) printf(“Pode sair pra tomar um café, esse trecho vai executar por toda a eternidade”)
 ```
-***OBS:*** *Os controladores do laço ***for*** não são obrigatórios, por isso eventos como o codigo acima, onde as condicionais do ***for*** simplismente não existem, pode ser utilizado para construir um loop infinito.*
+<b>OBS:</b> *Os controladores do laço <b>for</b> não são obrigatórios, por isso eventos como o codigo acima, onde as condicionais do <b>for</b> simplismente não existem, pode ser utilizado para construir um loop infinito.*
 
-**Outro exemplo de loop infinito**
+#### Outro exemplo de loop infinito**
 ```c
 #include <stdio.h>
 
@@ -47,13 +45,11 @@ _____
 
 o while executa um bloco ou comando se determinada condição for verdadeira. 
 
-**Estrutura**
-
-> while(condição) comando;
+```while(condição) comando;```
 
 O comando assim como no ***for***, pode ser vazio, comando simples ou um bloco delimitado por chaves.
 
-**Exemplo:**
+
 ```c
 #include <stdio.h>
 
@@ -68,11 +64,11 @@ int main()
 }
 ```
 #### Repetição controlada por sentinela: <br/>
-algumas vezes o número de vezes que o loop deve ocorrer não é conhecido, então será necessário que o próprio usuário finalize o loop inserindo um valor para uma variaǘel que chamados de <b>Sentinela</b> O valor senttilla irá interromper o laço, por isso é importante tomar alguns cuidados, dentre eles é tomar cuidado com o valor sentinela solicitado, ele não pode ser facilmente confundível com os valores orginalmente solicitados pelo loop.
+Algumas vezes o número de vezes que o loop deve ocorrer não é conhecido, então será necessário que o próprio usuário finalize o loop inserindo um valor para uma variável que chamamos de <b>Sentinela</b>. O valor sentinela irá interromper o laço, por isso devemos  tomar cuidado com o valor sentinela solicitado, ele não pode ser facilmente confundído com os valores originalmente solicitados pelo loop.
 ```c
 nota =0;
 while (nota >= 0){
-    prinf(Insisra o valor a nota ou -1 para sair); //-1 é o valor sentinela
+    printf(Insira o valor da nota ou -1 para sair); //-1 é o valor sentinela
     
 }
 ```
@@ -80,13 +76,13 @@ while (nota >= 0){
 
 A principal diferença desse laço para os dois anteriores, é que esse faz o teste ao fim da execução, ou seja, ele sempre executa uma instrução a mais do que o limite predeterminado.
 
-**Estrutura**
 
+```
 do{
     comando;
 }while(condição);
 
-**Exemplo:**
+```
 ```c
 #include <stdio.h>
 
@@ -102,7 +98,7 @@ int main()
 O programa acima irá solicitar uma letra do usuário até que ele digite A, enquanto não, a solicitação irá se repetir
 _______
 
-### Desvios:
+#### Desvios:
 
 São comandos utilizados para realizar desvios incondicionais dentro do seu código.
 
