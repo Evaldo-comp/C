@@ -11,7 +11,7 @@
 *
 * número : O número da entrada atual no programa
 *
-* maior :	  O maior número achado até o momento
+* maior :O maior número achado até o momento
 *
 *
 *	Fonte: C - Como programar - Deitel e Deitel 6º ed
