@@ -76,8 +76,8 @@ while (nota >= 0){
 Nesse caso o número de vezes que o loop irá ocorrer, é previamente conhecido, e esse valor é passado para uma variável chamada de de <b>Variável de Controle</b>, essa variável é incrementada ou decrementada (normalmente em 1), até chegue ao valor limite pré determinado.
 ```c
 float nota;
-float total =0;
-for(int i = 0; i <=100; i++){ // a variaǘel de controle é o i, limitada ao valor 100 e incrementada de 1 em 1
+float total = 0;
+for(int i = 0; i <= 10; i++){ // a variável de controle é o i, limitada ao valor 10 e incrementada de 1 em 1
     printf("Insira a nota");
     scanf("%f", &nota);
     total += nota;
