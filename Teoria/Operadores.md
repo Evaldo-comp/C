@@ -52,11 +52,11 @@ mod  = a % b;
 Operador unário que recebe apenas um operando
 ```c
 int a = 10;
-a = a - 1; //também pode ser escrito a-- ou --a
+a--; //Se o operador de decremento for colocado antes da variável ele será chamado de pré-decremento(a variável é decrementada só depois exerce sua função)
 ```
 - ( ++ )    Incremento<br>
 Operador unário que recebe apenas um operando
 ```c
 int a = 10;
-a = a + 1; //também pode ser escrito a++  ou ++a
+a++; ////Se o operador de incremento for colocado antes da variável ele será chamado de pré-incremento(a variável é incrementada só depois exerce sua função)
 ```
