@@ -67,6 +67,15 @@ int main()
     
 }
 ```
+#### Repetição controlada por sentinela: <br/>
+algumas vezes o número de vezes que o loop deve ocorrer não é conhecido, então será necessário que o próprio usuário finalize o loop inserindo um valor para uma variaǘel que chamados de <b>Sentinela</b> O valor senttilla irá interromper o laço, por isso é importante tomar alguns cuidados, dentre eles é tomar cuidado com o valor sentinela solicitado, ele não pode ser facilmente confundível com os valores orginalmente solicitados pelo loop.
+```c
+nota =0;
+while (nota >= 0){
+    prinf(Insisra o valor a nota ou -1 para sair); //-1 é o valor sentinela
+    
+}
+```
 #### O laço do-while:
 
 A principal diferença desse laço para os dois anteriores, é que esse faz o teste ao fim da execução, ou seja, ele sempre executa uma instrução a mais do que o limite predeterminado.
