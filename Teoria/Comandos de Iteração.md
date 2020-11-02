@@ -16,6 +16,10 @@ for (x = 100; x != 65; x-=5){
 ```
 O x no código acima é o que chamamos de <b>controlador</b>, pois ele é testado a cada vez que o laço é executado, para verificar se ainda atende a condição de execução do bloco, quando essa condição não for mais verdadeira o laço deixa de ser executado.
 
+![Estrutura do For](https://github.com/Evaldo-comp/C_Cpp-Teoria-e-Pratica/blob/master/Teoria/capturas/fluxograma_for.png)
+
+>Fonte: C Como programar 6º ed. Deitel e Deitel
+
 #### Laços infinitos:
 
 Os loops infinitos  ocorrem quando a condição limitante de execução da instrução dentro de um laço  nunca é alcançada ou simplesmente não existe.
