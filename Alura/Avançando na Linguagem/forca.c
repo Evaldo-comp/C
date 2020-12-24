@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<string.h>
 
+char palavrasecreta[20];
+char chutes[26];
+int tentativas = 0;
+
 void abertura(){
     printf("*******************************\n");
     printf("*         jogo de forca        *\n");
@@ -8,40 +12,29 @@ void abertura(){
 
 }
 
-void chute(char chutes[26], int tentativas ){
+void chute(){
 
         char chute;
         scanf(" %c", &chute);
 
-        chutes[tentativas] = chute;
-        tentativas++;
+        chutes[(tentativas)] = chute;
+        (tentativas)++;
 }
 
-int main(){
-    char palavrasecreta[20];
+int jaChutou(char letra){
+    int achou = 0;
+    for(int j = 0; j < tentativas; j++){
+        if (chutes[j] == letra){
+            achou = 1;
+            break;
+        }
+    } 
+    return achou;
+}
 
-    sprintf(palavrasecreta, "Melancia");
-
-    int acertou = 0;
-    int enforcou = 0;
-
-    char chutes[26];
-    int tentativas = 0;
-
-   abertura();
-
-    do {
-        
-        for (int i = 0; i < strlen(palavrasecreta); i++){
-            int achou = 0;
-            //printf("Estou vendo a letra secreta %d %c\n", i, palavrasecreta[i]);
-            for(int j = 0; j < tentativas; j++){
-                if (chutes[j] == palavrasecreta[i]){
-                   // printf("-----> Chute Correto\n");
-                    achou = 1;
-                    break;
-                }
-            } 
+void desenhaForca(){
+    for (int i = 0; i < strlen(palavrasecreta); i++){
+            int achou = jaChutou(palavrasecreta[i]);
             if (achou){
                 printf("%c ", palavrasecreta[i]);
             }else{
@@ -50,9 +43,32 @@ int main(){
             
         }
         printf("\n");
+}
 
+void escolhePalavra(){
+    sprintf(palavrasecreta, "Melancia");
+
+}
+
+int main(){
+    
+
+
+    int acertou = 0;
+    int enforcou = 0;
+
+
+
+    escolhePalavra();
+
+   abertura();
+
+    do {
+        
+        
+        desenhaForca();
        // captura novo chute
-        chute(chutes, tentativas);
+        chute();
         
 
            
